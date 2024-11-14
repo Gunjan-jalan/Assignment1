@@ -10,4 +10,5 @@ int main(){
     cin>>c>>d;
     int prod = (a*b) + (c*d);
     cout<<"Dot product of "<<a<<"+ i"<<b<<" and "<<c<<"+ i"<<d<<" = "<<prod<<endl;
+    cout<<"Changes Made Successfully"<<endl;
 }
